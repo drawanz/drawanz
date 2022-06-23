@@ -4,7 +4,7 @@
 
 About me:
 
-At the moment i am a student of software development, working in my personal projects, having some experience on the listed  areas as follows.
+At the moment I am a student of software development, working in my personal projects, having some experience on the listed  areas as follows.
 
 Technologies: 
 
