@@ -41,4 +41,4 @@ At the moment, I am studying this:
 
 Find me: 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/le%C3%B4nidas-drawanz-ferreira-494a04202/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonidas-ferreira/)
