@@ -42,3 +42,4 @@ At the moment, I am studying this:
 Find me: 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonidas-ferreira/)
+<p align="left"> <img src="https://komarev.com/ghpvc/? username=drawanz&label=Profile%20views&color=blue&style=plastic" alt="drawanz" /> </p>
